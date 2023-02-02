@@ -13,4 +13,5 @@ package Creational.S2Factory;
 public class FactoryDemo {
 
     //For example, let's have a Computer Interface with a method commute()
+    //See "Computer" Interface for this
 }
