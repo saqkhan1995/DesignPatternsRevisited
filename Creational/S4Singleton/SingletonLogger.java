@@ -2,7 +2,7 @@ package Creational.S4Singleton;
 
 public class SingletonLogger {
 
-    //1. Create a "public" "static" instance of the Singleton Class
+    //1. Create a "private" "static" instance of the Singleton Class
     private static SingletonLogger logger = new SingletonLogger();
 
     //2. Have a private Constructor so nobody outside can access it
